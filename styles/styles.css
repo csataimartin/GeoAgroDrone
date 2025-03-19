@@ -41,10 +41,14 @@ body, html {
   .caption2{
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 100%;
     width: 100%;
     text-align: center;
 
+
+  }
+  .phone{
+    margin-bottom: 30px;
   }
   
   .caption span.border {
